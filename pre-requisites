@@ -1,0 +1,15 @@
+Anaconda Navigator: A desktop graphical user interface used to launch applications and manage Python packages and environments for data science. https://www.anaconda.com/download
+
+PyCharm: An Integrated Development Environment (IDE) specifically designed for Python programming, offering code analysis and debugging tools. https://www.jetbrains.com/pycharm/
+
+NumPy: Core library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions. https://numpy.org/doc/stable/
+
+Pandas: Data manipulation and analysis library offering data structures and operations for manipulating numerical tables and time series. https://pandas.pydata.org/docs/
+
+Scikit-learn: Machine learning library featuring classification, regression, and clustering algorithms like support vector machines and random forests. https://scikit-learn.org/stable/
+
+Matplotlib: Comprehensive library for creating static, animated, and interactive visualizations in Python. https://matplotlib.org/stable/
+
+Seaborn: Data visualization library based on matplotlib that provides a high-level interface for drawing attractive statistical graphics. https://seaborn.pydata.org/
+
+Flask: A lightweight WSGI web application framework used to build web APIs and deploy machine learning models. https://flask.palletsprojects.com/
